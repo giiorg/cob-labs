@@ -218,3 +218,8 @@ sequenceDiagram
    - Optimize order matching for high-frequency trading (HFT).
 5. **Monitoring and Logging**:
    - Implement real-time monitoring, metrics, and logging.
+
+## Resources
+
+- [Go maps in action](https://go.dev/blog/maps) (go.dev blog)
+- [Go heap](https://pkg.go.dev/container/heap@go1.23.4) (Go Standard library container heap)
